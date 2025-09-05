@@ -43,6 +43,24 @@ body{
   }
  
 }
+@media only screen and (max-width:720px) {
+  .bars{
+  font-size: 30px;
+  
+
+  }
+  .nev-bar{
+    flex-direction:column;
+    flex-direction: column-reverse;
+    
+  }
+  .nev-bar-mid-button{
+
+    font-size: 20px;
+    
+  }
+ 
+}
 .nev-bar{
   display: flex;
   gap: 20px;
