@@ -83,6 +83,26 @@ body{
     background-color:rgb(234, 233, 233);
      cursor: pointer;
 }
+.layout-menue-button{
+  background-color: transparent;
+  border: none;
+  color: #ffffff;
+  /* text-decoration: underline; */
+  
+}
+.layout-menue-button:hover{
+  background-color: #ffffff;
+  color: #000000;
+  border-radius: 10px;
+ 
+}
+.button{
+  text-align: center;
+  color: #F2F2F2;
+}
+.button:hover{
+  color: #000000;
+}
 
   
   
